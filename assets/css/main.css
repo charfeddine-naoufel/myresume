@@ -4860,8 +4860,8 @@ a img {
     font-size: 35px;
     display: block;
     line-height: 1;
-    color: transparent;
-    -webkit-text-stroke: 4px #ffffff;
+    color: #fff;
+    /* -webkit-text-stroke: 4px #ffffff; */
     font-family: "Poppins", sans-serif;
 }
 
